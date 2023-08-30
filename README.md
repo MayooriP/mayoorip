@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **B.E (Information Science)**
 
-- 💬 Ask me about **| Adobe Photoshop CC | Adobe Premiere pro |         C | Java | Andriod Development |**
+- 💬 Ask me about **| Adobe Photoshop CC | Adobe Premiere pro | C | Java | Andriod Development |**
 
 - 📫 How to reach me **mayoorimunnuraya11@gmail.com**
 
