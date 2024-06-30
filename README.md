@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi  <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px">, I'm Mayoori P</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=500&pause=1000&color=6312F7&width=435&lines=Trying+to+be+a+Front+end+Developer" alt="Typing SVG" /></a> </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A136F7&random=false&width=435&lines=Trying+to+be+a+full+stack+developer" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="123.gif">
 
  
