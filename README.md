@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi  <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px">, I'm Mayoori P</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=91F749&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayooriP&label=Profile%20views&color=0e75b6&style=flat" alt="MayooriP" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=37&pause=1000&color=91F749&background=7062FF00&width=560&height=98&lines=Full+Stack+Developer" alt="Typing SVG" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=MayooriP&label=Profile%20views&color=0e75b6&style=flat" alt="MayooriP" /> </p>
 
 - 🌱 I’m currently learning **B.E (Information Science)**
 
