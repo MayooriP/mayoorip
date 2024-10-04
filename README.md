@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi  <img src="https://imgur.com/C7PX4kM.gif" height="30px" width="30px">, I'm Mayoori P</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=37&pause=1000&color=91F749&background=7062FF00&width=449&height=47&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
-- 🌱 I’m currently learning **B.E (Information Science)**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A136F7&random=false&width=435&lines=full+stack+developer" alt="Typing SVG" /></a>
+<img align="right" alt="Coding" width="400" src="123.gif">- 🌱 I’m currently learning **B.E (Information Science)**
 
 - 💬 Ask me about **| Adobe Photoshop CC | Adobe Premiere pro | C | Java | Andriod Development |**
 
