@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A136F7&random=false&width=435&lines=full+stack+developer" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="123.gif">- 🌱 I’m currently Working as Trainee Software Engineer
 
-- 💬 Ask me about **| Adobe Photoshop CC | Adobe Premiere pro | C | Java | Andriod Development |**
+- 💬 Ask me about **| Adobe Photoshop CC | Adobe Premiere pro | C | Java | SpringBoot | Hibernate | AWS Solution Architect | Andriod Development |**
 
 - 📫 How to reach me **mayoorimunnuraya11@gmail.com**
 
