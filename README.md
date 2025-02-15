@@ -42,13 +42,7 @@
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a><br>
 
 # 📊 GitHub Stats:
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MayooriP&theme=midnight-purple&hide_border=false" alt="GitHub Streak"/>
-</a>
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MayooriP&theme=radical&hide_border=false" alt="GitHub Streak Alternative"/>
-</a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MayooriP&theme=dark)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=MayooriP&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MayooriP&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayooriP&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
